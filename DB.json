@@ -1,25 +1,28 @@
 {
-  "pytania":[
+  "zadania":[
   {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
+    "nazwaRzeczy": "projekt",
+    "priorytet": 1,
+    "data": "08.05.2024",
+    "zrealizowane": "Nie",
   },
   {
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
+    "nazwaRzeczy": "projekt2",
+    "priorytet": 1,
+    "data": "04.05.2024",
+    "zrealizowane": "Nie",
   },
   {
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
+    "nazwaRzeczy": "projekt3",
+    "priorytet": 0,
+    "data": "01.05.2024",
+    "zrealizowane": "Tak",
+  },
+  {
+    "nazwaRzeczy": "projekt4",
+    "priorytet": 2,
+    "data": "03.05.2024",
+    "zrealizowane": "Nie",
   }
 ]
 }
